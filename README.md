@@ -54,3 +54,5 @@ Este repositorio existe para proteger el sentido antes de que otros lo vacíen.
 El patrimonio vivo no se administra, no se explota y no se exhibe:
 se cuida.
 
+Hash de este archivo; 5394a5b4a42e154f99b01988251957bed92a21b3b1aaa39390da394c380b3f5b
+
